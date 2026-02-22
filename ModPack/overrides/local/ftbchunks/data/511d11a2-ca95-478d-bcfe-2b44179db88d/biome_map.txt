@@ -1,0 +1,16 @@
+#6F6 minecraft:badlands
+#481 minecraft:badlands_plateau
+#53B desolation:charred_forest
+#008 minecraft:desert
+#5EC biomesoplenty:dry_boneyard
+#7F0 biomesoplenty:dryland
+#5A5 biomesoplenty:orchard
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#274 biomesoplenty:scrubland
+#2CF biomesoplenty:shrubland
+#462 biomesoplenty:shrubland_hills
+#774 minecraft:sunflower_plains
+#201 biomesoplenty:wooded_scrubland
