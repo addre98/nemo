@@ -502,6 +502,30 @@
       "hash": "0e1ffa4e6d3f7b379c7d30e8e59d424fd527acb4"
     },
     {
+      "path": "mods/thermal_integration-1.20.1-11.0.1.27.jar",
+      "hash": "8d6ecb5e6c8b7dc0a95eeaba012c6bcd1b75e77d"
+    },
+    {
+      "path": "mods/thermal_cultivation-1.20.1-11.0.1.24.jar",
+      "hash": "1973b5142aedca44aefa66d2406643e7d00205c7"
+    },
+    {
+      "path": "mods/thermal_cultivation-1.20.1-11.0.1.24.jar",
+      "hash": "8d6ecb5e6c8b7dc0a95eeaba012c6bcd1b75e77d"
+    },
+    {
+      "path": "mods/thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "hash": "7a9b3691dfca81e52d3e34738c6bc0a98b58bf93"
+    },
+    {
+      "path": "mods/thermal_innovation-1.20.1-11.0.1.23.jar",
+      "hash": "5c6881416ff4fb116d05f4a48acf12b30f10af82"
+    },
+    {
+      "path": "mods/thermal_locomotion-1.20.1-11.0.1.19.jar",
+      "hash": "f39c3b75c4a34bc838c1abcc1ba88a8e724b11ec"
+    },
+    {
       "path": "mods/[机附-汽鸣铁道]Steam_Rails-1.6.15-beta+forge-mc1.20.1.jar",
       "hash": "924c3efb2187138b85a0d5285dbb65b371c4f7e9"
     },
@@ -511,7 +535,7 @@
     },
     {
       "path": "mods/[机附-附魔工业]create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
-      "hash": "69c646642b6c7d97f7876cd847201c5d810b9e49"
+      "hash": "069396e689ae887d065c8d61b7945e685fbcc65b"
     },
     {
       "path": "mods/[热力膨胀]thermal_expansion-1.20.1-11.0.1.29 (1).jar",
